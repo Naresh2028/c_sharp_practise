@@ -1,4 +1,4 @@
-﻿using C_Sharp_Concepts_And_OOP.OOPs;
+﻿using C_Sharp_Concepts.Solid;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;

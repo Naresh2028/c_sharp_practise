@@ -9,7 +9,6 @@ namespace C_Sharp_Concepts_And_OOP.Concepts.Extension
 {
     public static class Calculator
     {
-        
         public static double Pi = 3.141;
 
         public static int Add(int a, int b)
