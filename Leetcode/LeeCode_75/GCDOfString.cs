@@ -35,7 +35,7 @@ namespace C_Sharp_Concepts.Leetcode.LeeCode_75
 
             for (int i = length; i >= 1; i--)
             {
-                // Step 4: Check if size 'i' divides both lengths cleanly, then return that piece of str1
+                // Step 3: Check if size 'i' divides both lengths cleanly, then return that piece of str1
                 if (str1.Length % i == 0 && str2.Length % i == 0) 
                 {
                     result = str1.Substring(0,i);
