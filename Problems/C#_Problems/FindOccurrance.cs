@@ -10,7 +10,8 @@ namespace C_Sharp_Concepts.Problems
     public static class FindOccurrance
     {
         /// <summary>
-        ///  Question: Given a string text, count how many times each character appears in the string and return the counts
+        ///  Question: Given a string text, count how many times each character appears in the string 
+        ///  and return the counts
         /// </summary>
         /// <param name="text"></param>
         /// <returns></returns>

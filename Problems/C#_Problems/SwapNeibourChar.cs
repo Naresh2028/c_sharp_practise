@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace C_Sharp_Concepts.Problems
 {
     /// <summary>
-    /// Question: Given a string text, swap every two adjacent (neighboring) characters in pairs and return the newly formed string. 
+    /// Question: Given a string text, swap every two adjacent (neighboring) characters 
+    /// in pairs and return the newly formed string. 
     /// If the string has an odd number of characters, leave the last character in its original place. 
     /// </summary>
     public static class SwapNeibourChar
