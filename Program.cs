@@ -7,10 +7,13 @@ namespace C_Sharp_Concepts_And_OOP
     {        
         static void Main(string[] args)
         {
-            PrintOddTrianngle obj = new PrintOddTrianngle();
-            int n = 5;
+            FindMissingNumber obj = new FindMissingNumber();
 
-            obj.PrintOddTriangle(n);
+            int[] num = [3,0,1];
+
+            Console.WriteLine(obj.FindMissingNumbers(num));
+            Console.ReadLine();
+            
         }
 
     }
